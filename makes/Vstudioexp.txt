@@ -1,0 +1,6 @@
+neues projekt
+win 32 consolenanwendung
+leeres projekt
+
+bei quelldatei Element hinzufügen
+c++ datei unter "name.c" speichern
